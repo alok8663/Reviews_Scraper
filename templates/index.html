@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Review Scraper | Flipkart & Amazon</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>🛒 Product Review Scraper (Flipkart & Amazon)</h1>
+
+    <form method="POST">
+        <label><strong>Select Platform:</strong></label><br>
+        <input type="radio" name="platform" value="amazon" required> Amazon
+        <input type="radio" name="platform" value="flipkart" required> Flipkart
+        <br><br>
+
+        <label><strong>Product URL:</strong></label><br>
+        <input type="text" name="product_url" placeholder="Enter Product URL" required style="width: 60%;">
+        <br><br>
+
+        <label><strong>Amazon Pages (if applicable):</strong></label><br>
+        <input type="number" name="pages" min="1" max="20" value="1">
+        <br><br>
+
+        <button type="submit">Start Scraping</button>
+    </form>
+
+    {% if amazon_status %}
+        <p><strong>{{ amazon_status }}</strong></p>
+        <a href="/download/amazon">📥 Download Amazon Reviews</a>
+    {% endif %}
+
+    {% if flipkart_status %}
+        <p><strong>{{ flipkart_status }}</strong></p>
+        <a href="/download/flipkart">📥 Download Flipkart Reviews</a>
+    {% endif %}
+
+    {% if error %}
+        <p style="color:red;"><strong>{{ error }}</strong></p>
+    {% endif %}
+</body>
+</html>
