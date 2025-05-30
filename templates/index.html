@@ -24,18 +24,16 @@
         <button type="submit">Start Scraping</button>
     </form>
 
-    {% if amazon_status %}
-        <p><strong>{{ amazon_status }}</strong></p>
-        <a href="/download/amazon">📥 Download Amazon Reviews</a>
-    {% endif %}
+        {% if message %}
+            <p><strong>{{ message }}</strong></p>
+            {% if file %}
+                <a href="{{ url_for('download', platform=file.split('_')[0]) }}">📥 Download {{ file.split('_')[0].capitalize() }} Reviews</a>
+            {% endif %}
+        {% endif %}
 
-    {% if flipkart_status %}
-        <p><strong>{{ flipkart_status }}</strong></p>
-        <a href="/download/flipkart">📥 Download Flipkart Reviews</a>
-    {% endif %}
+        {% if error %}
+            <p style="color:red;"><strong>{{ error }}</strong></p>
+        {% endif %}
 
-    {% if error %}
-        <p style="color:red;"><strong>{{ error }}</strong></p>
-    {% endif %}
 </body>
 </html>
