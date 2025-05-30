@@ -1,0 +1,68 @@
+[
+    {
+        "Review_Date": "01/10/2022",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Very helpful for UGC NET."
+    },
+    {
+        "Review_Date": "01/07/2022",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Book is good but it it hand written which is little bit problematic to understand some time"
+    },
+    {
+        "Review_Date": "01/06/2022",
+        "User_Rating_Out_Of_5": "2",
+        "Review_Title": "Moderate",
+        "Review_Body": "Handwriting is not clear.. H looks like id.. E nd I has no difference.. Kind of difficult to read ! Shld improve so much to be worth the money"
+    },
+    {
+        "Review_Date": "01/04/2023",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Best notes"
+    },
+    {
+        "Review_Date": "01/07/2022",
+        "User_Rating_Out_Of_5": "1",
+        "Review_Title": "Not recommended at all",
+        "Review_Body": "Oh my gosh!\nKinder garden handwriting, can't understand what's written on it.\nWorst worst worst\nDont buy this book,waste of money"
+    },
+    {
+        "Review_Date": "02/10/2024",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Good information and well understand"
+    },
+    {
+        "Review_Date": "01/04/2024",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Nice"
+    },
+    {
+        "Review_Date": "01/06/2023",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Very good product"
+    },
+    {
+        "Review_Date": "01/06/2023",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Best notes for set studis"
+    },
+    {
+        "Review_Date": "01/05/2023",
+        "User_Rating_Out_Of_5": "3",
+        "Review_Title": "Just okay",
+        "Review_Body": "Some times handwriting is difficult to understand.this is a hand written notes"
+    },
+    {
+        "Review_Date": "01/12/2022",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "The product is very useful"
+    }
+]
