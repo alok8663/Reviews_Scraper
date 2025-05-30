@@ -6,7 +6,7 @@ This is a Flask-based web application that scrapes product reviews from **Amazon
 
 ## ✨ Features
 
-- 🔍 Scrape reviews from **Amazon** (via ASIN) and **Flipkart** (via product URL)
+- 🔍 Scrape reviews from **Amazon** and **Flipkart** (via product URL)
 - 💾 Download scraped reviews in **JSON** format
 - 📅 Handles relative dates like "Yesterday", "3 months ago", etc.
 - 🖥️ Simple and user-friendly web interface
