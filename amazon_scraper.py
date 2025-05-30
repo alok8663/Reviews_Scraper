@@ -35,7 +35,7 @@ def scrape_amazon_reviews(asin, max_pages, user_id):
         url = f"https://www.amazon.in/product-reviews/{asin}/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
         driver.get(url)
         print("Waiting for login if needed...")
-        time.sleep(60)
+        time.sleep(35)
 
         page = 1
         while page <= max_pages:

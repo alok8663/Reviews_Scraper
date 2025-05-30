@@ -3,6 +3,7 @@ import os
 import re
 from amazon_scraper import scrape_amazon_reviews
 from flipkart_scraper import scrape_flipkart_reviews
+import json
 
 app = Flask(__name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -10,6 +11,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 @app.route('/', methods=['GET', 'POST'])
 def index():
     message = None
+    error = None
     file_to_download = None
 
     if request.method == 'POST':
@@ -20,30 +22,69 @@ def index():
         if not url:
             return render_template("index.html", error="⚠️ Please enter a valid product URL.")
 
-        if platform == 'amazon':
-            try:
+        try:
+            if platform == 'amazon':
                 asin_match = re.search(r"/([A-Z0-9]{10})(?:[/?]|$)", url)
                 if not asin_match:
                     return render_template("index.html", error="❌ Invalid Amazon product URL.")
                 asin = asin_match.group(1)
                 user_id = request.remote_addr.replace(".", "_")
                 scrape_amazon_reviews(asin, pages, user_id)
-                message = "✅ Amazon scraping completed!"
-                file_to_download = "amazon_reviews.json"
-            except Exception as e:
-                message = f"❌ Amazon scraping failed: {str(e)}"
+                filename = "amazon_reviews.json"
 
-        elif platform == 'flipkart':
-            try:
-                if "flipkart.com" not in url:
-                    return render_template("index.html", error="❌ Invalid Flipkart product URL.")
-                scrape_flipkart_reviews(url)
-                message = "✅ Flipkart scraping completed!"
-                file_to_download = "flipkart_reviews.json"
-            except Exception as e:
-                message = f"❌ Flipkart scraping failed: {str(e)}"
+            elif platform == 'flipkart':
+                try:
+                    if "flipkart.com" not in url:
+                        return render_template("index.html", error="❌ Invalid Flipkart product URL.")
 
-    return render_template("index.html", message=message, file=file_to_download)
+                    filename = "flipkart_reviews.json"
+                    filepath = os.path.join(BASE_DIR, filename)
+
+                    # ✅ Delete old file before scraping
+                    if os.path.exists(filepath):
+                        os.remove(filepath)
+
+                    scrape_flipkart_reviews(url)
+
+                    if os.path.exists(filepath):
+                        with open(filepath, "r", encoding="utf-8") as f:
+                            data = f.read().strip()
+                            reviews = json.loads(data)
+                            if isinstance(reviews, list) and len(reviews) > 0:
+                                message = "✅ Flipkart scraping completed!"
+                                file_to_download = filename
+                            else:
+                                error = "❌ No reviews found or invalid link."
+                    else:
+                        error = "❌ Flipkart scraping failed: No file created."
+
+                except Exception as e:
+                    error = f"❌ Flipkart scraping failed: {str(e)}"
+
+            else:
+                return render_template("index.html", error="❌ Unsupported platform.")
+
+            # ✅ Check if JSON file has reviews
+            filepath = os.path.join(BASE_DIR, filename)
+            if os.path.exists(filepath):
+                with open(filepath, "r", encoding="utf-8") as f:
+                    data = f.read().strip()
+                
+                reviews = json.loads(data)
+                if isinstance(reviews, list) and len(reviews) > 0:
+                    message = f"✅ {platform.capitalize()} scraping completed!"
+                    file_to_download = filename
+                else:
+                    error = "❌ No reviews found or invalid link."
+
+            else:
+                error = "❌ Scraping failed: No Reviews Found."
+
+        except Exception as e:
+            error = f"❌ Scraping failed: {str(e)}"
+
+    return render_template("index.html", message=message, error=error, file=file_to_download)
+
 
 
 @app.route('/download/<platform>')

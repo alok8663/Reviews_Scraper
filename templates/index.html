@@ -7,6 +7,20 @@
 <body>
     <h1>🛒 Product Review Scraper (Flipkart & Amazon)</h1>
 
+
+        <div class="instructions">
+    <!-- ℹ️ Instructions Section -->
+    <p><strong>ℹ️ Instructions (Amazon):</strong></p>
+    <ul>
+        <li>Enter the product URL.</li>
+        <li>Select the number of pages.</li>
+        <li>Click 'Start Scraping' — a Chrome window will open.</li>
+        <li><strong>If login window doesn't appear, once refresh the page.</strong></li>
+        <li>If prompted, log in to your Amazon account manually. <strong>[Login time = 35 seconds]</strong></li>
+        <li>After scraping completes, click the download button to get your JSON file.</li>
+    </ul>
+</div>
+
     <form method="POST">
         <label><strong>Select Platform:</strong></label><br>
         <input type="radio" name="platform" value="amazon" required> Amazon
@@ -18,7 +32,7 @@
         <br><br>
 
         <label><strong>Amazon Pages (if applicable):</strong></label><br>
-        <input type="number" name="pages" min="1" max="20" value="1">
+        <input type="number" name="pages" min="1" max="100" value="10">
         <br><br>
 
         <button type="submit">Start Scraping</button>
@@ -34,6 +48,10 @@
         {% if error %}
             <p style="color:red;"><strong>{{ error }}</strong></p>
         {% endif %}
+
+
+
+
 
 </body>
 </html>
