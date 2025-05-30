@@ -1,6 +1,6 @@
 /* General Reset */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 40px auto;
     max-width: 800px;
     padding: 20px;
@@ -92,4 +92,8 @@ a:hover {
     padding: 12px;
     margin-bottom: 20px;
     font-size: 14px;
+}
+
+#product-url.link-pasted {
+    color: #0645AD;
 }

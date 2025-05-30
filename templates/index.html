@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+
     <title>Review Scraper | Flipkart & Amazon</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
 </head>
 <body>
     <h1>🛒 Product Review Scraper (Flipkart & Amazon)</h1>
@@ -28,7 +33,7 @@
         <br><br>
 
         <label><strong>Product URL:</strong></label><br>
-        <input type="text" name="product_url" placeholder="Enter Product URL" required style="width: 60%;">
+        <input type="text" id="product-url" name="product_url" placeholder="Enter Product URL" required style="width: 60%;">
         <br><br>
 
         <label><strong>Amazon Pages (if applicable):</strong></label><br>
@@ -49,9 +54,7 @@
             <p style="color:red;"><strong>{{ error }}</strong></p>
         {% endif %}
 
-
-
-
+<script src="{{ url_for('static', filename='script.js') }}"></script>
 
 </body>
 </html>
