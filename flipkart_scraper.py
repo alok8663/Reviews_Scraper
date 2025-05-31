@@ -1,4 +1,4 @@
-def scrape_flipkart_reviews(product_url: str):
+def scrape_flipkart_reviews(product_url: str, progress_callback=None):
     from selenium import webdriver
     from selenium.webdriver.common.by import By
     from selenium.webdriver.chrome.service import Service
@@ -44,6 +44,19 @@ def scrape_flipkart_reviews(product_url: str):
 
         return "Unknown"
 
+    # For extracting the total number of pages
+    def get_total_pages(driver):
+        try:
+            time.sleep(2)
+            pagination = driver.find_element(By.XPATH, "//div[contains(@class, 'mpIySA')]//span[contains(text(), 'Page')]")
+            text = pagination.text.strip()  # No indexing needed
+            if "of" in text:
+                return int(text.split("of")[-1].strip())
+            return 1
+        except Exception as e:
+            print(f"Error in get_total_pages: {e}")
+            return 1
+
     def setup_driver():
         options = webdriver.ChromeOptions()
         options.add_argument('--disable-blink-features=AutomationControlled')
@@ -51,6 +64,8 @@ def scrape_flipkart_reviews(product_url: str):
         options.add_argument('--no-sandbox')
         return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
+    
+    # Extracting reviews from multiple pages
     def extract_reviews():
         wait.until(EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'EKFha-')]")))
         reviews = driver.find_elements(By.XPATH, "//div[contains(@class, 'EKFha-')]")
@@ -78,6 +93,8 @@ def scrape_flipkart_reviews(product_url: str):
 
             reviews_data.append([clean_date, rating, title, body])
 
+    
+    # Extracting review from the product page(not having multiple pages)
     def extract_from_product_page():
         wait.until(EC.presence_of_all_elements_located((By.XPATH, "//div[@class='RcXBOT']")))
         reviews = driver.find_elements(By.XPATH, "//div[@class='RcXBOT']")
@@ -105,6 +122,9 @@ def scrape_flipkart_reviews(product_url: str):
 
             reviews_data.append([clean_date, rating, title, body])
 
+            if progress_callback:
+                progress_callback(1, 1)
+
     try:
         driver = setup_driver()
         wait = WebDriverWait(driver, 20)
@@ -117,15 +137,20 @@ def scrape_flipkart_reviews(product_url: str):
             all_reviews_button.click()
             time.sleep(3)
 
-            MAX_PAGES = 150
+            MAX_PAGES = get_total_pages(driver)
             page_count = 0
 
             while True:
                 print(f"Scraping page {page_count + 1}")
                 extract_reviews()
                 page_count += 1
+
+                
+                if progress_callback:
+                    progress_callback(page_count, MAX_PAGES)
+
                 if page_count >= MAX_PAGES:
-                    print("⚠️ Page limit reached (60 pages). Stopping further scraping.")
+                    print("⚠️ Page limit reached. Stopping further scraping.")
                     break
                 try:
                     next_button = driver.find_element(By.XPATH, "//nav//a[.//span[text()='Next']]")

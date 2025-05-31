@@ -26,7 +26,7 @@ def init_driver(user_id):
     return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
 
-def scrape_amazon_reviews(asin, max_pages, user_id):
+def scrape_amazon_reviews(asin, max_pages, user_id,progress_callback=None):
     driver = init_driver(user_id)
     all_reviews = []
     filename = os.path.join(BASE_DIR, "amazon_reviews.json")
@@ -118,6 +118,9 @@ def scrape_amazon_reviews(asin, max_pages, user_id):
                     })
                 except:
                     continue
+
+            if progress_callback:
+                progress_callback(page, max_pages)
 
             try:
                 next_button = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "li.a-last a")))

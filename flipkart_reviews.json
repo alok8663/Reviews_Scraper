@@ -1,68 +1,3602 @@
 [
     {
-        "Review_Date": "01/10/2022",
+        "Review_Date": "01/05/2025",
         "User_Rating_Out_Of_5": "5",
-        "Review_Title": "Highly recommended",
-        "Review_Body": "Very helpful for UGC NET."
+        "Review_Title": "Excellent",
+        "Review_Body": "The book is very helpful to me\nThanks sir to make this book"
     },
     {
-        "Review_Date": "01/07/2022",
-        "User_Rating_Out_Of_5": "5",
-        "Review_Title": "Fabulous!",
-        "Review_Body": "Book is good but it it hand written which is little bit problematic to understand some time"
-    },
-    {
-        "Review_Date": "01/06/2022",
-        "User_Rating_Out_Of_5": "2",
-        "Review_Title": "Moderate",
-        "Review_Body": "Handwriting is not clear.. H looks like id.. E nd I has no difference.. Kind of difficult to read ! Shld improve so much to be worth the money"
-    },
-    {
-        "Review_Date": "01/04/2023",
+        "Review_Date": "01/05/2025",
         "User_Rating_Out_Of_5": "5",
         "Review_Title": "Perfect product!",
-        "Review_Body": "Best notes"
+        "Review_Body": "This is a very inspiring book and will be very useful for my exams."
     },
     {
-        "Review_Date": "01/07/2022",
-        "User_Rating_Out_Of_5": "1",
-        "Review_Title": "Not recommended at all",
-        "Review_Body": "Oh my gosh!\nKinder garden handwriting, can't understand what's written on it.\nWorst worst worst\nDont buy this book,waste of money"
-    },
-    {
-        "Review_Date": "02/10/2024",
+        "Review_Date": "01/05/2025",
         "User_Rating_Out_Of_5": "5",
-        "Review_Title": "Mind-blowing purchase",
-        "Review_Body": "Good information and well understand"
+        "Review_Title": "Must buy!",
+        "Review_Body": "This is wonderful book👍 please purchase it all my teaching Aspirants"
     },
     {
-        "Review_Date": "01/04/2024",
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Very nice 👍"
+    },
+    {
+        "Review_Date": "10/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Very nice book for Tre 4.0"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Sup"
+    },
+    {
+        "Review_Date": "01/05/2025",
         "User_Rating_Out_Of_5": "5",
         "Review_Title": "Highly recommended",
+        "Review_Body": "Good product\nThis content is best"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "This is best book for bpsc tre 4.0\nThank u Danish sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "This book is so good. Danish sir is 1 n only favorite teacher. Teaching pariksha team is best team forever.l love teaching pariksha...I recommend to all go and join."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Very nice book thank you for Danish sir I love my teaching Pariksha"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Best book for Bpsc tre.4"
+    },
+    {
+        "Review_Date": "13/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "This book is very helpful for teacher exam, in this all the content is given topic wise and its analysis is also given in great detail, which will be very helpful in revision, thank you teaching pariksha"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "This book is very useful.. u can life changing and achieve your goal. Thanks a lot dear Danish sir.🌈🙏🏻🙏🏻🌅"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Good Book, 899 Question in Book ,"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Outstanding book ..thanks sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "V nice book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Very nice Book . very easy to read......"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "This book is so nice/ I Like this book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "It's very helpful book..."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Best book for bpsc TRE .\nAll Questions are with explanation. Easy to read and understand."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "This is a must useful book guys just buy it👍👍🙌"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "I loved it so much 💕💕💕\nContent is Very good 👍👍\nThank you\nteaching Pariksha"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Highly recommended for students who want to practice previous years' questions chapter-wise with reliable solutions. Great as a revision tool, especially before exams."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "This is the best book ,for all competitive exams, thankyou danish sir, must buy this book."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Nice 👍 book 📚"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Book is very nice"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Best book for tre 4 and my dream thanks a lot Danish sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "One of the best book among bpsc tre4.0 books."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Good quality of questions and detail solve...\nThanks sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Very helpful book👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Very helpful for tre 4.0\nThank you Dhanish sir🙏"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Best h thank youuuuuuuuuuuh danish sir"
+    },
+    {
+        "Review_Date": "31/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "This helps me alot in studying gs paper for BPSC tre 4.0 . This book contains gs for all students who appeared in BPSC teacher exam . I recommend you this book if you want to study gs paper. This book contains previous year question collection. Thanks ."
+    },
+    {
+        "Review_Date": "31/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very useful"
+    },
+    {
+        "Review_Date": "31/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Vvry nice and thnkq so much danish sir 🙏🙏"
+    },
+    {
+        "Review_Date": "31/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "It's the most valuable book for TRE aspirants. Danish sir is a very good teacher for teaching exams"
+    },
+    {
+        "Review_Date": "31/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Very helpful book"
+    },
+    {
+        "Review_Date": "31/05/2025",
+        "User_Rating_Out_Of_5": "3",
+        "Review_Title": "Does the job",
+        "Review_Body": "Good book for teacher aspirants"
+    },
+    {
+        "Review_Date": "31/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Good a quality page and questions explaine"
+    },
+    {
+        "Review_Date": "31/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Good book for study."
+    },
+    {
+        "Review_Date": "31/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Easy read this book and nominal price 👍🏻"
+    },
+    {
+        "Review_Date": "31/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "This book is amazing and outstanding informative content for BPSC TRE 4 .\nThis book is very good. It has been prepared with a lot of hard work. Which is visible in it. Thanks for the best book"
+    },
+    {
+        "Review_Date": "30/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Helpful for teaching exam . perfect for gs"
+    },
+    {
+        "Review_Date": "30/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Easy and nice question with explanation"
+    },
+    {
+        "Review_Date": "30/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "This is very helpful book of bpsc teacher .its content is very useful for student"
+    },
+    {
+        "Review_Date": "30/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Product is very useful for all one day exam specially BPSC"
+    },
+    {
+        "Review_Date": "30/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Nice content\nAnd question with smart explanation\nWhich help us exams\n❤️❤️❤️❤️❤️"
+    },
+    {
+        "Review_Date": "30/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "This book is very helpful for Tre 4.0\nNice 👍"
+    },
+    {
+        "Review_Date": "30/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Tre 4 best book"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "One of the best book in the market for bpsc tre exam preparation all previous questions of tre compilation in this book thank you teaching pariksha team and thank you danish sir for making this book for us highly recommended"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Danish sir is best gs teacher\nThis book is very helpful"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "This book is most useful for bpsc tre student ."
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Most helpful book for BPSC teacher exam for science students..."
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Thank you sir for this book.\nThis book is very useful 🙂"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Very very helpful book thanks sir"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Good",
+        "Review_Body": "Quality and content is very effective.\nUsefull of all competitive exam.\nTHANKS TEACHING PARIKSHA TEAM"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Best Book for BPSC TRE 4.0"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Best book for the preparation of bpsc tre examinations"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Very good book"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Very useful book for tre 4.0 this book cover tre 2.0 and 3.0 all questions"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "This book is good...\nBecause I myself studied from Danish Sir and got selected in Tre1 and am currently a primary teacher."
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Exillent book"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Very Good Book"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Awesome 👍"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Nice book"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "This is wonderful book"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Good book"
+    },
+    {
+        "Review_Date": "29/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Best book for teaching exam👍👍"
+    },
+    {
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Very good book and total question are authentic"
+    },
+    {
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Nice book and very helpful 😊😊"
+    },
+    {
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "This book is very good and very helpful"
+    },
+    {
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Best ever book for TRE bihar exam .... I suggest each and every one to purchase it go through it ....\nThanks you danish sir for grateful contribution for making this book"
+    },
+    {
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Nice",
+        "Review_Body": "Book complete own purpose,\nExplanation is outstanding.\nIt's very useful for BPSC TRE"
+    },
+    {
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Very Good",
+        "Review_Body": "Nice book"
+    },
+    {
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Very good book with to the point explanation"
+    },
+    {
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "This book is very useful for our examination 💯"
+    },
+    {
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Amazing book ,easy to read"
+    },
+    {
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Recommended"
+    },
+    {
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Excellent 👌👌👌👌"
+    },
+    {
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
         "Review_Body": "Nice"
     },
     {
-        "Review_Date": "01/06/2023",
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Good"
+    },
+    {
+        "Review_Date": "28/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Best book for BPSC TRE 4.0"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "This book is very helpful and easy to learn"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Best book"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "This book is very helpful thanks sir 💚💚💚"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Best book for BPSC tre 4"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "This book is very helpful for me"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "One of the Best book for preparation for bpsc teaching exam"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Worth the money",
+        "Review_Body": "Very nice book and easy to read"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Very useful book for teaching exam 👍🥰"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Nice book"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Super"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Good"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "This book is very useful all people and me"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "a must have book for everyone who are preparing for bpsc tre 4.0 exam......too good 👍👍👍"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Very helpful book for BPSC TRE 4.0\nThanks to Teaching Pariksha's team and Specially Danish Sir also.....\nI hope that after reading this book I will get good marks in General Studies.\nPlease bless me so that I can be selected in TRE4.0\nI know that also,, Hope For The Best...\nThank you 💛🍁🦋\nRamprasad Barman from Coochbehar,West Bengal."
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Very helpful book for BPSC teacher exam\nBest book for BPSC TRE📚"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Good book for bpsc teaching exam"
+    },
+    {
+        "Review_Date": "27/05/2025",
         "User_Rating_Out_Of_5": "5",
         "Review_Title": "Fabulous!",
+        "Review_Body": "It is very useful for me"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Best book for BPSC tre"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "This book is so helpful for BPSC tre examination"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Best book for previous year question paractice"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Thank you Flipkart and Danish Sir for giving such a good book, our preparation will get a new dimension, due to which we will do better in BPSC exam"
+    },
+    {
+        "Review_Date": "27/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Best content"
+    },
+    {
+        "Review_Date": "26/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Very useful book for revison bpsc tre4.0"
+    },
+    {
+        "Review_Date": "26/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Very nice book\nThanks danish sir 🙏"
+    },
+    {
+        "Review_Date": "26/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": ";This book is very good, Sir. You have done us a great favor by making this book. Thank you very much, Sir....🙏🙏🙏"
+    },
+    {
+        "Review_Date": "26/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Best book 💯💯❤️"
+    },
+    {
+        "Review_Date": "26/05/2025",
+        "User_Rating_Out_Of_5": "1",
+        "Review_Title": "Absolute rubbish!",
+        "Review_Body": "Very bad Book, don't buy any body as in this eng and hindi combination making bad sense while reading, book should be in any one language, very bad product better to buy other book"
+    },
+    {
+        "Review_Date": "26/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Thank you Danish sir"
+    },
+    {
+        "Review_Date": "26/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Best book for bpsc tre4.0 because it's content are very helpful for students"
+    },
+    {
+        "Review_Date": "26/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Good quality product",
+        "Review_Body": "Book is very useful for teaching aspirants"
+    },
+    {
+        "Review_Date": "26/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Very helpful for tre exam"
+    },
+    {
+        "Review_Date": "26/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Best Book very useful"
+    },
+    {
+        "Review_Date": "25/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "This is the best book thanku for the amazing content"
+    },
+    {
+        "Review_Date": "25/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Good books Good reading material for those who study theory"
+    },
+    {
+        "Review_Date": "25/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Good product, very nice book for bpsc Tre, easy for read, thank Danish Sir"
+    },
+    {
+        "Review_Date": "25/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Imp que and previous year question paper for bpsc4.0 very helpful for me\nSo thank you sir for this content"
+    },
+    {
+        "Review_Date": "25/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Best book for bpsc tre exam"
+    },
+    {
+        "Review_Date": "25/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Very useful books"
+    },
+    {
+        "Review_Date": "25/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Good content"
+    },
+    {
+        "Review_Date": "25/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Good esay langues slove"
+    },
+    {
+        "Review_Date": "25/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Best book for BPSC teaching...899 questions"
+    },
+    {
+        "Review_Date": "24/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "This book is very Useful for BPSC TRE aspirants, Thankss Teaching Priksha Team and Danish Sir 🙌"
+    },
+    {
+        "Review_Date": "24/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Excellent"
+    },
+    {
+        "Review_Date": "24/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "This Best book"
+    },
+    {
+        "Review_Date": "24/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Best book for General studies for BPSC. THANKU DSNISH SIR"
+    },
+    {
+        "Review_Date": "24/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "it is good Read to bpsc tre 4.0"
+    },
+    {
+        "Review_Date": "24/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "This is amazing book for BPSC TRE 4.0 Students"
+    },
+    {
+        "Review_Date": "24/05/2025",
+        "User_Rating_Out_Of_5": "1",
+        "Review_Title": "Very poor",
+        "Review_Body": "Bad"
+    },
+    {
+        "Review_Date": "24/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Very very important book of One Day exam of points.\n\nAll content is to good and excellent 👍"
+    },
+    {
+        "Review_Date": "24/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "The book is best"
+    },
+    {
+        "Review_Date": "23/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Good book"
+    },
+    {
+        "Review_Date": "23/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Great book"
+    },
+    {
+        "Review_Date": "23/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Great"
+    },
+    {
+        "Review_Date": "23/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Very helpful book bpsc tre4.o by Danish sir"
+    },
+    {
+        "Review_Date": "23/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Really very effective product. I like it.\nThankyou Danish Sir 🙏🙏"
+    },
+    {
+        "Review_Date": "23/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Useful book for all teaching exam and specially for BPSC TRE 4.0"
+    },
+    {
+        "Review_Date": "23/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Pretty good",
+        "Review_Body": "Useful book.. must read it."
+    },
+    {
+        "Review_Date": "23/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Best quality book and selected questions"
+    },
+    {
+        "Review_Date": "22/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "This is very useful book for the exam"
+    },
+    {
+        "Review_Date": "22/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Very Nice book with Pyq content ❤️❤️\n.\nThank you so much teaching pareeksha and Danish sir 🙏 for this book."
+    },
+    {
+        "Review_Date": "22/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Book is very useful for bpsc tre 4 exam"
+    },
+    {
+        "Review_Date": "22/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Good book"
+    },
+    {
+        "Review_Date": "22/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Nice pro"
+    },
+    {
+        "Review_Date": "22/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "This book is very helpful for those who is applicant of tre 4 . I am very inspired form then I am preparing for primary 1to 5 class and this helps me lot about GS. I suggest you to purchase this book. It is very helpful for you."
+    },
+    {
+        "Review_Date": "21/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Nice book"
+    },
+    {
+        "Review_Date": "21/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Awesome book sir"
+    },
+    {
+        "Review_Date": "20/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Way of sucess"
+    },
+    {
+        "Review_Date": "20/05/2025",
+        "User_Rating_Out_Of_5": "1",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Very useful book bpsc 4.0"
+    },
+    {
+        "Review_Date": "20/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "This book is very helpful\nAnd easy to read the content.\nAnd good page quality.\nUnder the contents are very authentic.\nAnd very helpful your bpsc tre exames"
+    },
+    {
+        "Review_Date": "20/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Very good book\nBy Danish sir\nThanks"
+    },
+    {
+        "Review_Date": "20/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Very appreciative and creative innovation by Danish sir"
+    },
+    {
+        "Review_Date": "20/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "THIS BOOK IS MARVELOUS TO ACHIEVE GOAL OF BPSC TRE 4.0."
+    },
+    {
+        "Review_Date": "20/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Good quality product",
+        "Review_Body": "Good product this content is best for tre 4.0 aspirants\nThis book is very good for quick revision and helpful in improving your knowledge in all subject."
+    },
+    {
+        "Review_Date": "19/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Delightful",
+        "Review_Body": "Good book.."
+    },
+    {
+        "Review_Date": "19/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Best book.."
+    },
+    {
+        "Review_Date": "19/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Very nice book"
+    },
+    {
+        "Review_Date": "19/05/2025",
+        "User_Rating_Out_Of_5": "1",
+        "Review_Title": "Worthless",
+        "Review_Body": "No more expalanation of questions"
+    },
+    {
+        "Review_Date": "19/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Very nice 🙂🙂"
+    },
+    {
+        "Review_Date": "19/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Good"
+    },
+    {
+        "Review_Date": "19/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "The product is excellent. All previous year paper is given to easy way with explanation\nI like it 🥰"
+    },
+    {
+        "Review_Date": "19/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "It's content is up to mark and covered General paper with very well explanation"
+    },
+    {
+        "Review_Date": "19/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Best pyq book🙏"
+    },
+    {
+        "Review_Date": "19/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Very very useful book for BPSC tr examination 🙏🙏🙏🙏🙏👌👌👌❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️"
+    },
+    {
+        "Review_Date": "19/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "This is good book."
+    },
+    {
+        "Review_Date": "19/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Very useful book for all type of teaching exam. Specially for Bihar teacher recruitment examination"
+    },
+    {
+        "Review_Date": "18/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Nice"
+    },
+    {
+        "Review_Date": "18/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Must buy"
+    },
+    {
+        "Review_Date": "18/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "this book was excellent question collection super book for all exam"
+    },
+    {
+        "Review_Date": "18/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Book is very informative n answer is upto the point,page quality is good 👍🏻"
+    },
+    {
+        "Review_Date": "18/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Thank you so much sir"
+    },
+    {
+        "Review_Date": "18/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Nice book"
+    },
+    {
+        "Review_Date": "18/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very helpful book ☺️ ❤️❤️❤️❤️"
+    },
+    {
+        "Review_Date": "18/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "This book is very helpful"
+    },
+    {
+        "Review_Date": "18/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "This is very useful book. Thank you so much Danish sir ..🙏🙏"
+    },
+    {
+        "Review_Date": "18/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Its awesome.. i am very happy to get this book💗🥰❤️"
+    },
+    {
+        "Review_Date": "18/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Nice material at this price"
+    },
+    {
+        "Review_Date": "17/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "This book is very helpfull for secure youre future"
+    },
+    {
+        "Review_Date": "17/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "I'm satisfied this book"
+    },
+    {
+        "Review_Date": "17/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Very good"
+    },
+    {
+        "Review_Date": "17/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "This book has been really helpful for my BPSC TRE 4.0 preparation. The concepts are explained in a clear and simple manner, making it easier to understand even the tougher topics. The practice sets are well-structured and reflect the actual exam level. Danish Sir's approach adds great value to the learning process. Overall, I am quite satisfied with this purchase. Thank you Danish sir And Teaching Pariksha Team!"
+    },
+    {
+        "Review_Date": "17/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Easy language and easy to learn"
+    },
+    {
+        "Review_Date": "16/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Very Nice Book, Excellent explanation,thanks Teaching Pariksha.Thank You Danish Sir 🙏"
+    },
+    {
+        "Review_Date": "16/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "BEST BOOK BPSC TRE 4.0"
+    },
+    {
+        "Review_Date": "16/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "This book contains previous year asked questions with topic wise which Full fill your pattern level"
+    },
+    {
+        "Review_Date": "16/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "👍👍💯💯Good quality and best material product💯💯👍👍"
+    },
+    {
+        "Review_Date": "16/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "I love this book and excellent content. it is helpfull to preparing BPSC TRE 4.0 exam."
+    },
+    {
+        "Review_Date": "16/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "This book is very helpful for us to preparation BPSC purpose and other states exam."
+    },
+    {
+        "Review_Date": "16/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "This is such a wonderful book . I love this book 📚 to read. Thank you danish sir for amazing book."
+    },
+    {
+        "Review_Date": "16/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Very nice and helpful"
+    },
+    {
+        "Review_Date": "16/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "very helpful book"
+    },
+    {
+        "Review_Date": "16/05/2025",
+        "User_Rating_Out_Of_5": "1",
+        "Review_Title": "Absolute rubbish!",
+        "Review_Body": "waste of money"
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "This book is very helpful... prepare for bpsc tre"
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "this book increased my confidence thak you teaching pariksha 🥰🥰"
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "The book is very helpful"
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "First of all in this book included bihar map with that specific topic. that's make this book more interesting for study and easy way to learn.thank you ☺️ so much dearest Danish sir❤️👍"
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Very good book for bpsc tre. We understand easily and explanation of each question is very easy.."
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Very helpful book"
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Best books"
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Very nice book for TRE aspirants....\nThank you Teaching pariksha and special thanks for Danish Sir 👏👏"
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Nice book"
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Jbrdast 🔥thnku so much danish sir for this one ❤️"
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "This is a very inspiring book and will be very usefull for my exam...thank you so much sir🙏🙏"
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "easy to read nd very affordable price thanku must buy this book to make sure selection in tre. 4"
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "good and very helpful for exam ...thanku sir🙏🙏"
+    },
+    {
+        "Review_Date": "15/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "It's very good book. I like it very much. Very easy to read."
+    },
+    {
+        "Review_Date": "14/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Good product"
+    },
+    {
+        "Review_Date": "14/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "The book is very helpful to me\nThanks teaching pariksha and danish sir to make this book"
+    },
+    {
+        "Review_Date": "14/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "This book is very useful for BPSC Tre and Bihar Daroga.The question of this book is authentic and important for competitive exams."
+    },
+    {
+        "Review_Date": "14/05/2025",
+        "User_Rating_Out_Of_5": "3",
+        "Review_Title": "Good",
+        "Review_Body": "Answer explaination are in brief."
+    },
+    {
+        "Review_Date": "14/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Book is so good cuntent is very nice"
+    },
+    {
+        "Review_Date": "14/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Good product\nThis is best content"
+    },
+    {
+        "Review_Date": "14/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Concept clear with easy methods.\nGood book...previous GS questions"
+    },
+    {
+        "Review_Date": "13/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Content of this book is so good and all the matter is perfect."
+    },
+    {
+        "Review_Date": "13/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "The explanation of all the questions in this book is correct, easy to read and understand"
+    },
+    {
+        "Review_Date": "13/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Very nice book and halpful for the exam"
+    },
+    {
+        "Review_Date": "13/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Bpsc tre 4 best book thanks danish sir"
+    },
+    {
+        "Review_Date": "13/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Best book for tre exam"
+    },
+    {
+        "Review_Date": "13/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "This Book is very nice easy read and more content provided thanks for teaching prakisha"
+    },
+    {
+        "Review_Date": "13/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Nice book useful for bpsc tre"
+    },
+    {
+        "Review_Date": "12/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Very nice book easy to reading"
+    },
+    {
+        "Review_Date": "12/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Awesome"
+    },
+    {
+        "Review_Date": "12/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Nice book hai"
+    },
+    {
+        "Review_Date": "12/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "It is helpful.."
+    },
+    {
+        "Review_Date": "12/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "This book is very good; the explanations are provided very well. It is a very useful book for TRE 4.\n\nThanks teaching pariksha."
+    },
+    {
+        "Review_Date": "12/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Book is so good"
+    },
+    {
+        "Review_Date": "12/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Thankyou so much flipkart best book for pyq tre exam details explanation reading is very easy and intrested thankyou so much danish sir"
+    },
+    {
+        "Review_Date": "12/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Excellent"
+    },
+    {
+        "Review_Date": "12/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very good product. This book is very helpful for bpsc gs paper .thank you Danish sir and his team.thank you teaching pariksha."
+    },
+    {
+        "Review_Date": "12/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "This book is amazing\nThank you so much Danish sir"
+    },
+    {
+        "Review_Date": "12/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Thanks for teaching pariksha team and very helpful book to BPSC tre crack the exam so very interesting and very helpful\nAgain thanks for teaching pariksha team and Danish sir"
+    },
+    {
+        "Review_Date": "12/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "This book is Very useful for bpsc tre student"
+    },
+    {
+        "Review_Date": "12/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "This book is very important for TRE Students.It is like a panacea by which will build up and stable knowledge of asking questions in exam hall."
+    },
+    {
+        "Review_Date": "11/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Good book"
+    },
+    {
+        "Review_Date": "11/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Nice book"
+    },
+    {
+        "Review_Date": "11/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Really Nice",
+        "Review_Body": "All the best book of BPSC Tre 4.0"
+    },
+    {
+        "Review_Date": "11/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Such a helpful book."
+    },
+    {
+        "Review_Date": "11/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very good book by Danish sir most help full for tre 4.0 students thank you sir"
+    },
+    {
+        "Review_Date": "11/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Nice"
+    },
+    {
+        "Review_Date": "11/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Good book"
+    },
+    {
+        "Review_Date": "10/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Thank you so much teaching pariksha specially Danish sir ❤❤❤❤❤"
+    },
+    {
+        "Review_Date": "10/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Nice book 📖"
+    },
+    {
+        "Review_Date": "10/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Really this book is very helpful for every BPSC aspirant. I'm thankful to Danish Sir and his team."
+    },
+    {
+        "Review_Date": "10/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Good book , IT will surely help in TRE"
+    },
+    {
+        "Review_Date": "10/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Helpful book Tre 4,..."
+    },
+    {
+        "Review_Date": "10/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Very good"
+    },
+    {
+        "Review_Date": "10/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "This book is very helpful for bpsc teacher exam ."
+    },
+    {
+        "Review_Date": "10/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Nice book , detailing is very good"
+    },
+    {
+        "Review_Date": "10/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "It's most helpful in cracking BPSC TRE ,the most awaited book for everyone i recommend to all ho for this without any hesitation"
+    },
+    {
+        "Review_Date": "09/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
         "Review_Body": "Very good product"
     },
     {
-        "Review_Date": "01/06/2023",
+        "Review_Date": "09/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Very nice book ,easy to read ,thanku danish sir ❤️❤️❤️❤️❤️"
+    },
+    {
+        "Review_Date": "09/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "I got this book is super and love this always respect your sirr thanks for this content love so much ❤️🙏🙏🙏❤️"
+    },
+    {
+        "Review_Date": "09/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Book Reading and change your mind"
+    },
+    {
+        "Review_Date": "09/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Thank you Flipkart"
+    },
+    {
+        "Review_Date": "09/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just okay",
+        "Review_Body": "Best book"
+    },
+    {
+        "Review_Date": "08/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "This book is very useful for me"
+    },
+    {
+        "Review_Date": "08/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "This book is worth of money . Thanks teaching exam who make this book."
+    },
+    {
+        "Review_Date": "08/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "This is the Best book for BPSC TRE 4.0"
+    },
+    {
+        "Review_Date": "08/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Awesome book for GS (NCERT AND SCERT) and Easy too read and nice page quality and All ques updated 2025💓💓💓💓💓💓💓💓"
+    },
+    {
+        "Review_Date": "08/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "The content of this book is very interesting and useful for us...\nThankyou very much"
+    },
+    {
+        "Review_Date": "08/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Good"
+    },
+    {
+        "Review_Date": "07/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Best book for bpsc tre 4.0 . All question's solution given in detail and easy way. I like this book very much."
+    },
+    {
+        "Review_Date": "07/05/2025",
         "User_Rating_Out_Of_5": "5",
         "Review_Title": "Brilliant",
-        "Review_Body": "Best notes for set studis"
+        "Review_Body": "The book is really good ."
     },
     {
-        "Review_Date": "01/05/2023",
+        "Review_Date": "07/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Nice book"
+    },
+    {
+        "Review_Date": "07/05/2025",
         "User_Rating_Out_Of_5": "3",
-        "Review_Title": "Just okay",
-        "Review_Body": "Some times handwriting is difficult to understand.this is a hand written notes"
+        "Review_Title": "Nice",
+        "Review_Body": "Helpful"
     },
     {
-        "Review_Date": "01/12/2022",
+        "Review_Date": "07/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very nice content this book I love this book"
+    },
+    {
+        "Review_Date": "07/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "This book is very useful for me to prepare for the tre 4.0 exam."
+    },
+    {
+        "Review_Date": "07/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Amezing book"
+    },
+    {
+        "Review_Date": "07/05/2025",
         "User_Rating_Out_Of_5": "5",
         "Review_Title": "Classy product",
-        "Review_Body": "The product is very useful"
+        "Review_Body": "This Book is very much helpful for the students. Highly recommended."
+    },
+    {
+        "Review_Date": "07/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "This book is Very helpful sir"
+    },
+    {
+        "Review_Date": "07/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "GOOD CONTENT HELP FOR EXAM"
+    },
+    {
+        "Review_Date": "06/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Thank you Danish sir for this book..🙏 I'm happy with you this book and contents. This book contains pqys with well defined topic and answer solutions 🫶 I hope that this will help me in my bpsc tre 4.0 exm and I can crack this exam easily ✨️ I hope your blessing help me🙏✨️"
+    },
+    {
+        "Review_Date": "06/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Very nice and good content 👍"
+    },
+    {
+        "Review_Date": "06/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very helpfull"
+    },
+    {
+        "Review_Date": "06/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Best book by best teacher"
+    },
+    {
+        "Review_Date": "06/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "This is very helpful and amazing book"
+    },
+    {
+        "Review_Date": "06/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Highly recommend,This book is as superb as Danish Sir's👍👍"
+    },
+    {
+        "Review_Date": "06/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Best book for this exam.!"
+    },
+    {
+        "Review_Date": "06/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Best Book for PYQ of TRE"
+    },
+    {
+        "Review_Date": "06/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Awesome book for bpsc tre 4 improve your preparation"
+    },
+    {
+        "Review_Date": "06/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Very nice book 📚"
+    },
+    {
+        "Review_Date": "06/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "This book is very important of Bpsc teacher tre4 k liyee\nThis is important phy question🙋"
+    },
+    {
+        "Review_Date": "05/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Very nice"
+    },
+    {
+        "Review_Date": "05/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Very very good book"
+    },
+    {
+        "Review_Date": "05/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Most valuable book and best for bpsc tre 4"
+    },
+    {
+        "Review_Date": "05/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Bpsc teaching related one of the best book 📖 👌 👏"
+    },
+    {
+        "Review_Date": "05/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Better for basics Start"
+    },
+    {
+        "Review_Date": "05/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "It's a very amazing book"
+    },
+    {
+        "Review_Date": "05/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Best books"
+    },
+    {
+        "Review_Date": "05/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Very helpful book"
+    },
+    {
+        "Review_Date": "05/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Best book for BPSC tre.\nAll questions are with explanation. Easy to read and understand. Must buy"
+    },
+    {
+        "Review_Date": "05/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "It is very nice book with with useful information ☺️\nI am so happy 😁 after getting this book\nGo through this book guys."
+    },
+    {
+        "Review_Date": "05/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Good"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Great collection of good question!"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Value for money book and easy to understand."
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Very helpful book"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very nice book GS by Danish sir"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Good"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Best book for bpsc TRE. nd this book is very helpful for me.all questions are with explanation nd easy to understand.\nPlease purchase it all my teaching aspirants.👍❤️"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Very useful book for tre -4"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "This book is so nice . I'm so excited for this book because it is written by Danish sir. That means He is the nearest of my heart.\nThank you so much all of you..... Teaching pariksha platform and All the teachers of members."
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Very useful for previous year question revising"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Amazing content and very use ful book for us thq sir thq soo much"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Good for preparation for tre 4"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Very use book for All compitition exam"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Nice book 📖"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Good product and helpful"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Value-for-money",
+        "Review_Body": "Excellent"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Bestest book! Must buy it for exam preparation"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Good 📚 Book in market 👍"
+    },
+    {
+        "Review_Date": "04/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Best book for bpsc"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Best book ever for bpsc tre 4"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Very very important and very helpful book .thank u so much Danish sir"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Nice Book"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Book Bpsc Exam 4.0 pattern is Best Sir Guidline Student Career Good"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Best book for bpsc"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Nice book"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Good for all competitive examinations but Best for BPSC TRE exams, Explanation of all questions is given in detail."
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "This book is best for bpsc tre 4.0"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Very good book for teachers or gs and I like this book so mach"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Book is very useful for tre 4.0 and all competitive exams.it's very helpful and easy to learn because in this all questions answers given with description which is too good."
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "2",
+        "Review_Title": "Great product",
+        "Review_Body": "BPSC Tre 4 most important books"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very useful book for bpsc tre exm."
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Life secure book this is an amazing book"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "The book is very helpful to me thanks Danish sir"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very useful book"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Good choice",
+        "Review_Body": "Nice Book"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Nice"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Very Nice book"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Amazing book\nItna Kam price m itna content thanku so much sir this is very helpful"
+    },
+    {
+        "Review_Date": "03/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "TRE 1,2,3.\nAll TRE previous year question, answer with explanation"
+    },
+    {
+        "Review_Date": "02/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Eamging books thns you so much teaching parisha and Danish sir"
+    },
+    {
+        "Review_Date": "02/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "After 10 days I am writing the review yes i can says that this is best book .. and its called masterpiece, good explanation of quesion.."
+    },
+    {
+        "Review_Date": "02/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "The quality of book is good and page also..\nAnd the content of the book is supab"
+    },
+    {
+        "Review_Date": "02/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Good book"
+    },
+    {
+        "Review_Date": "02/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Very helpful book for exam Thnkuu so much sir..🙏"
+    },
+    {
+        "Review_Date": "02/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Very nice 👍"
+    },
+    {
+        "Review_Date": "02/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "This book is very nice and helpful..."
+    },
+    {
+        "Review_Date": "02/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Thank you Danish Sir.. very good Book. Helpful book for BPSC tre 4 ."
+    },
+    {
+        "Review_Date": "02/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Soo good.. Thak you so much for this book sir\n."
+    },
+    {
+        "Review_Date": "02/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "This book is very important my preparation"
+    },
+    {
+        "Review_Date": "02/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Nice book ."
+    },
+    {
+        "Review_Date": "02/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Best book"
+    },
+    {
+        "Review_Date": "02/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Thank you Danish sir.."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Solution good this books pyq"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Best book for Bpsc tre.4"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Content was Superb Best GS guide for teaching job aspirants."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Mostly valuable book 🙏🙏🙏🙏🙏"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Super book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Your book is very must for BPSC TRE4.0"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Very helpful book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Best book for bpsc tre exam"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Actually this book will prove to be very good for BPSC TRE 4.0. Thank you"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "This book is very good and Best book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Woow amazing book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Best pyq collection and very helpful"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Best content"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Helpful book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Nice content"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Nice book and Theoretical Portion deeply knowledge"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Nyc content with a easy language discussion.. every previous year question available of Tre exam conducted... thank you so Danish sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Question discussion so good"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "It's a very suitable book for tre exams"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Very nice book thankyou so much Danish sir❤"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Very nice\nI like this book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Very good book and thankyou Danish sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "The book is so helpful...❤️"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "It is very useful to me"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Teaching pariksha is the best platform 💯🙏🇮🇳💐📳✅🤟🎁👍."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "best book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "This book is nice. All the questions are clear in this book after study."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "It is helpfull"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Best content for BPSC TRE 4.0\nThankyou Sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "It's Very Good book I'm glad to have this book."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "This book is very useful for BPSC tre exam."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Love this book and love yu danish sir 🫶.. Thnx teaching pariksha team 🙏"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "good book for tre 4.0"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Very nice bpsc book tre 4.0"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "This book is very good, it helped me a lot in studying"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "This book is very helpful for bpsc tre 4.0 and every aspirant\nThank you 😊 teaching pariksha and danish sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Thank you teaching pariksha"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Excellent Book .........Thanks Flipkart"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Very nice Book very good solution"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Best book for preparation of bpsc tre 4 at very affordable price . Liked the product very much"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Good book I like this"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "This book is very Useful and informative for all those students has doing preparation for BPSC tre 4.0 under the guidance of Teaching pariksha."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "My product is very nice. Thankyou flipcart community."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "This book is very helpful for preparation."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Outstanding"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Good product this content is best"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "This book is very inspiring and useful to me\nThanks sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Amazing book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "it's very useful for bpsc tre 4....a good book with minimum price"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Best book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "This book is really helpful for bpsc tre exam 👍.\nThank you so much sir!"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Best hai,mirrors of the soul"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "I like this book. Very nice book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "This is a very good book, it is beneficial for those who are preparing for Tre-4."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "This book is very good for tre exam and all competative exam ❣️🤩🌟🌟🌟🌟🌟"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "This book is very helpful for me\nThanks alot danish sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "1",
+        "Review_Title": "Waste of money!",
+        "Review_Body": "Average Book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Best product"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "This book is very useful for study in Bpsc tre 4.0\nThanks for Danish sir 🙏"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Best book of tre. This book is most helpful"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Nice book\nThnks Danish sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Good quality product",
+        "Review_Body": "This is amazing book and also bilingual so that I like this book very much and very helpful book .\n\nThanks Danish sir."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Best book for bpsc tre 4.0\nEasy to learn very useful this book .plz buy all aspirants."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "This is the best book for BPSC TRE 4.0\nThis book provides the best content."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "This book is so help full 🌕"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "BEST BOOK IN THE MY LIFE.\nTHANK YOU DANISH SIR\nU ARE THE MOST POPULAR TEACHER IN TEACHING EXAM❤️❤️"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Best book for BPSC TRE Exams. Highly Recommended"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Thanks a lot Sir\nVery good content\nMainly thanx Sir ji"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Book is awesome\nEvery student should be purchase for bpsc 4.0"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Best book for BPSC TRE"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Good product\nThis content is best......."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Best previous book ever ☺️"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Good"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Very easy book and very perfect questions"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Best book for bpsc TRE.\nAll Questions are with explanation. Easy to read and understand. Thank you danish Sir👍👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Good"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "This book is very useful"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Very best book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Very nice book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "I find this book very good as the detailed solution provided and all PYQ.\nTHANKYOU DANISH SIR we LOVE YOU 💞💞💞"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "This book is very good for preparation, it has very good content and is given in very simple language, its question collection is amazing, so don't worry and you can buy it without hesitation as soon as possible."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Nice book for tre exam........"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Very helpful book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Very very nice book for the bpsc exam"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Best book TRE 4 GS"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Very Nice book..I like this so much..This will be prove a great help for BPSC 4.0 teaching Examination .Thank You so much Danish Sir for your nice creation and your hard work.."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Very well content based questions and previous year question practice"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Helpful"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Very nice book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Nice product And thank you to Danish Sir .Very helpful Book for BPSC Tre."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Superb experience while using this book nice content by Danish sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "This book was amazing👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Best book BPSC tre 4.0 Thank you❤"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Good compilation of previous ques ...go for it ...👍👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "This book is very useful for us and the content of this book is very good. Especially Danish Sir is very good and he works very hard for us. According to me, everyone should join the teaching exam and study from Danish Sir."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "best book for bpsc tre .."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Good product"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Good product, excellent content\nVery very nice book 👌,❤️"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Thank you so much sir for this wonderful book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Best for BPSC TRE 4.O"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Thank you Danish sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Very useful book for BPSC TRE and other exams.\nThank you Danish sir and all Teaching। pariksha Teem."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Danish Sir, the book made by you is very excellent and it is enough to become a teacher in Bihar. I would just say that the book you have made is very useful for us and in future it will definitely be successful."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Best Book for bpsc tre"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "1",
+        "Review_Title": "Useless product",
+        "Review_Body": "This is only a question bank book, no new question is added.\nThe students they have already question bank book they should not buy this book if they buy this book is waste of money."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Very Best book i like it book by danish sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Best book of teaching preparation thanks danish Sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Very Helpful book.."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Very useful book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "best"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "that book is very useful for all bpsc tre level examinations\nl received that book on time nd l m very happy for that\ntqq so much danish sir\nnow ur turn to give .....😊😊"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Nice book\nEasy to learn"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "The best. Book for tre exam. Thankyou so much very useful book thankyou so much Danish sir 😊 🙏 ☺️ 😀 ❤️ 🙂 😊 🙏 ☺️ 😀💕💕💞💞💞💞💞💞💕💞"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Good"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "The Best book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very helpful book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "This practice book is very helpful for BPSC tre preparation. I also recommend to buy this Book 💕😊"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Best book for BPSC tre 4.0...\nThankyou team Teaching Pariksha..\nThankyou Danish sir.."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Nice product",
+        "Review_Body": "A1 book for tre"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Best book for tre4.... Specially gs part👍🏻"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Best book for gs paper"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Brilliant",
+        "Review_Body": "BAST BOOK FOR BPSC TRE 4"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Very useful. Book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Good for paper"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Worth the money",
+        "Review_Body": "Very nice book, thank you so much sir🙏🙏🙏"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Beautiful book any egy language"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Thanku so much this book is very helpful"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "This is wonderful book👍please purchase it all my teaching aspirants"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Best Book for Tre 4.0 .\nPyQ Discussed in details ."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Finally i grab this book and it is a very helpful book for tre 4.0 preparation.thank you danish sir and his team ❤️"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Book is very good for b.p.s.c students. All questions are ncert and scert based and useful for students."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Is better"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very useful book for tre Exam"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "This book is very important for the treatment 4.0 he is very helpful"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "This is awesome book I really loved it,now my marks increase in mock ,my confidence boost just becoz of this book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "This book is really very good. This time I will get a good rank after reading this book. Thanks Danish Sir, you will always be dear to me"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Very good"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Very helpful book for TRE 4.0.. must buy..\nAmezing book.i am so happy 😊....... thank u Danish sir 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Thankyou Danish sir babot Helpful book h"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Book is amazing 😍😍😍.\n\nFor Tre aspirants.. thank you Danish Sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Nice book 📚"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very helpful book..thanku Danish sir."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Bpsc teacher best book hai sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Super"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Best book for pyq 🤘"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Excellent book very good book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Best book for BPSC tre 4.0"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "This Book is very good for BPSC Teacher exams..."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "This book is very good this is helpful to me"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Best book for bpsc tre 4...... Very helpful book..... thankyou danish sir🙏"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Best book for tre4. This is very useful to me ."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Best books for bpsc tre 4 📚"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Very good book for BPSC"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "1",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Best book for bpsc tre 4 ❤️❤️❤️"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Very Good book for Tre 4 Students ❤️"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "The book is very good 👍❤️all competive exam and all tre pyq 👍❤️❤️ so nice book book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "This book is excellent .. Nd wroth it"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Really Nice",
+        "Review_Body": "It's very nice book 🙂"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "This is a good book for BPSC exam. All TRE questions are given chapter wise and topic wise with explanation and it is the best book for PYQ."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Thank teaching pariksha it's so amazing content in this book 📚📚📚"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "The book was vevy nice 👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "This book ia really wonderful for tre bpsc examination.i love this book 📚"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "BPSC TRE 4.0 is easy to read and page is very good"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Very good Book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Best book for BPSC TRE\nFor Quality Content faith on it"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "This book 📚 is very useful to us. So I m very happy."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Best book for BPSC exam"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very important book in my life for My dream BPSC teacher"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "This book is very good 👍😊 I think 🤔 we can pass BPSC very easily 😊😊😊😍🙏"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Best book for me"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Very help full book for BPSC tre 4.0 . Content is fantastic 👌👌👌"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Best book ✍️👌👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Best pyq collection 🤩🤩🤩"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Best books 👍👍👍👍👍👍👍👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Very good book....thanks teaching pariksha 😊👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Very good book for bpsc exam."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "This book is very helpful for PYQ and it is also billngual. Each subject's part wise question has been answered. this is a very helpful book for BPSC tre"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "Excellent book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "it's outstanding book.It's content is totaly based on exam."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Amazing book 😍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Teaching pariksha is best for all competitive exam ."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Very very good product 💯"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "In this book is easy concept"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Good for gs part in bpsc tre exam.."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Best book for bpsc tre previous year question paper."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Overall good"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Very super book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Best book in Bpsc tre 4.0"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "This book is very useful for me, thnks Danish Sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Very nice pyq book❤️❤️❤️❤️❤️❤️❤️❤️"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "Thanks sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "This book is very helpful for the aspirants who r preparing for the teaching exam. The content of this book is amazing if you want to get selection then must read this book thank you so much Danish sir for this book 🙏🏻"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Delightful",
+        "Review_Body": "Best book for bpsc tre4... great explanation"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "This book is very helpful for me\n\nThis book content are really full of facts and reach to achieve the goal oriented content\n\nHighly recommended for students who want to practice previous years questions chapter wise with reliable solutions great as a revision tool especially before exam\n\nExcellent book 📖 👌👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Excellent book 📚"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Very helpful book thank you"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Nice book every topic is clearly explained\nThank you TEACHING PARIKHSHA 🙏🙏"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "This book is amazing for bpsc tre4"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "This is very informative and helpful for BPSE TRE 4.0. All the previous year questions are explained in detail that will help to understand the concept"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Nice Book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Improve page quality"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Best"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Good 👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "It is helpful for the preparation of all teaching exams specifically for bpsc tre...thanks for this book ."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "it' very helpful book next bpsc tre exam"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "I liked this book.It has so many questions to revise for your BPSC TRE 4.0."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Thank u sir....for this book....this is very good book...thank u so so so much...."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "This book is easy to read but some difficult question like a competition exam.\nAnd it's question is totally derive from ncert and scert book."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "This book is awesome 👍👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "This book is very important for tre 4 and also help in bihar exam as like bihar police bssc etc extra.....🤸🔥💜👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Brilliant",
+        "Review_Body": "Very good and informative book.... really 💯% recommended"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "Super book\n\nVery useful book for TRE 4.0"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Most important Book for BPSC TRE Exam 💓💓"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Best book for teaching exam"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Very Useful Book, Thankyou Danish Sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Good collection of questions"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "This book very helpful and discussion is deep details and easy way discussion"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Thanku sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Good choice",
+        "Review_Body": "Easy to finds pyqs good content thanks sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "This is a good book for bpsc aspirants"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Excellent",
+        "Review_Body": "Product is good for bpsc tre 4.0"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "Nice"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "This book is very good, thank you Danish Sir, thank you so much for providing us with such a good quality book."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "This book is very helpful for the aspirants who are preparing for the teaching exam. The content of this book is amazing if you want to get selection then must read this book 👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "3",
+        "Review_Title": "Just okay",
+        "Review_Body": "Very good"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "This is very inspiring for the upcoming Bihar teacher exam."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific",
+        "Review_Body": "Very nice book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "very good part"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Mind-blowing purchase",
+        "Review_Body": "Good book , 💯 thank you"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Simply awesome",
+        "Review_Body": "Best books for bpsc tre 4.0\nBook quality is best and easily language understand 👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "The book is very helpful to me thank sir to make this book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "This book is very important for the teaching examination. I am very happy to get it.\nThanks Danish Sir"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Very easy language very informative .thank u danish sir and teaching pariksha team for this compilation."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "Amazing book ...."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Nice"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Wonderful",
+        "Review_Body": "Perfect Book for bpsc tre 4.0 exam, 100% sure crack the exam bpsc tre 4.0, then buy it now..."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "This book is an excellent resource for BPSC TRE exam preparation, containing 1200+ questions based on NCERT and SCERT. The latest answer key and bilingual presentation make it even more useful."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Just wow!",
+        "Review_Body": "This book is really helpful for success\nMind blowing book\nThank you Danish sir to make this book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "This book is very helpful for BPSC TRE... It is very easy to understand... This the best book for BPSC Teacher"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Worth every penny",
+        "Review_Body": "Musy buy"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Best books for GS."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Fabulous!",
+        "Review_Body": "Awesome book for tre exam . Print quality and explaination for every question is esay language book is very useful to me thanks danish sir\nDanish sir is best teacher and best motivatior in my life"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Must buy!",
+        "Review_Body": "This book is awesome 💯 ,easy to read nd..very useful for the exam..,. thanku so much sir,u re the best teacher in the whole world....I love this book ❤️📖"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Great product",
+        "Review_Body": "Very helpful book for bpsc and other exams\nThanku so much danish sir.."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Perfect product!",
+        "Review_Body": "Best book thank you for Danish sir and all teaching pariksha team"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "Amazing book 👍👌"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "This is amazing book written by Danish sir\nEasy to read and recommended by BPSE Tre students\nThank you so much Danish sir🙏🙏"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "4",
+        "Review_Title": "Classy product",
+        "Review_Body": "Very nice product thq so much sir 🙏"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "Very good book"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Terrific purchase",
+        "Review_Body": "This book is the best easy to understand thank u so much sir🙏"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Super!",
+        "Review_Body": "I love this book, it's very useful book thnq so much danish sir🙏🙏"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Best in the market!",
+        "Review_Body": "Best content👌👌 topic wise arrange questions with detailing answer's it's very helpful 👍👍"
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Awesome",
+        "Review_Body": "This is really helpful."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Classy product",
+        "Review_Body": "This book Content are really full of Facts, and reach to achieve the Goal oriented Contents."
+    },
+    {
+        "Review_Date": "01/05/2025",
+        "User_Rating_Out_Of_5": "5",
+        "Review_Title": "Highly recommended",
+        "Review_Body": "The product is very fine.llike it."
     }
 ]

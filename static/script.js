@@ -18,3 +18,19 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 });
+
+
+function pollProgress() {
+    document.getElementById("progress-container").style.display = "block";
+    const interval = setInterval(() => {
+        fetch('/progress')
+            .then(res => res.json())
+            .then(data => {
+                const value = data.value;
+                document.getElementById("bar").style.width = value + "%";
+                document.getElementById("percent").innerText = value + "%";
+                if (value >= 100) clearInterval(interval);
+            });
+    }, 1000);
+}
+

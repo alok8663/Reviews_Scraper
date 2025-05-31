@@ -97,3 +97,46 @@ a:hover {
 #product-url.link-pasted {
     color: #0645AD;
 }
+
+
+.form-actions {
+    display: flex;
+    align-items: center;
+    gap: 140px; /* spacing between button and progress bar */
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+/* Progress Container */
+#progress-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 350px;
+}
+
+/* Bar background */
+.progress-bar-bg {
+    width: 100%;
+    background-color: #eee;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    height: 30px;
+}
+
+#bar {
+    width: 0%;
+    height: 100%;
+    background-color: #419244;
+    transition: width 0.4s ease;
+    border-radius: 8px 0 0 8px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+}
+
+

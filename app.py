@@ -5,6 +5,14 @@ from amazon_scraper import scrape_amazon_reviews
 from flipkart_scraper import scrape_flipkart_reviews
 import json
 
+
+progress_data = {"value": 0}
+
+def update_progress(current, total):
+    progress_data["value"] = int((current / total) * 100)
+
+
+
 app = Flask(__name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -29,7 +37,7 @@ def index():
                     return render_template("index.html", error="❌ Invalid Amazon product URL.")
                 asin = asin_match.group(1)
                 user_id = request.remote_addr.replace(".", "_")
-                scrape_amazon_reviews(asin, pages, user_id)
+                scrape_amazon_reviews(asin, pages, user_id, progress_callback=update_progress)
                 filename = "amazon_reviews.json"
 
             elif platform == 'flipkart':
@@ -44,7 +52,8 @@ def index():
                     if os.path.exists(filepath):
                         os.remove(filepath)
 
-                    scrape_flipkart_reviews(url)
+                    scrape_flipkart_reviews(url, progress_callback=update_progress)
+
 
                     if os.path.exists(filepath):
                         with open(filepath, "r", encoding="utf-8") as f:
@@ -100,6 +109,14 @@ def download(platform):
         return send_file(path, as_attachment=True)
     else:
         return "File not found", 404
+
+
+
+@app.route('/progress')
+def get_progress():
+    return json.dumps(progress_data)
+
+
 
 
 if __name__ == "__main__":
