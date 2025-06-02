@@ -51,6 +51,7 @@ def scrape_amazon_reviews(asin, max_pages, user_id,progress_callback=None):
                     driver.execute_script("arguments[0].scrollIntoView(true);", r)
                     time.sleep(0.1)
 
+                    # Extract Review Date
                     try:
                         raw_date_text = r.find_element(By.CSS_SELECTOR, "span[data-hook='review-date']").text.strip()
                         date_part = raw_date_text.split("on")[-1].strip()
@@ -59,6 +60,7 @@ def scrape_amazon_reviews(asin, max_pages, user_id,progress_callback=None):
                     except:
                         date = "N/A"
 
+                    # Extract Rating 
                     try:
                         rating_text = r.find_element(By.CSS_SELECTOR, "i[data-hook='review-star-rating'], i[data-hook='cmps-review-star-rating']").get_attribute('textContent').strip()
                         rating_match = re.search(r"(\d+\.?\d*) out of 5", rating_text)
@@ -66,10 +68,12 @@ def scrape_amazon_reviews(asin, max_pages, user_id,progress_callback=None):
                     except:
                         rating = "N/A"
 
+                    # Extract Review Title
                     try:
                         title = r.find_element(By.CSS_SELECTOR, ".a-size-base.a-link-normal.review-title.a-color-base.review-title-content.a-text-bold").text.strip()
                     except:
-                        title = "N/A"
+                        title = r.find_element(By.CSS_SELECTOR, ".a-size-base.review-title.a-color-base.review-title-content.a-text-bold").text.strip()
+
 
                     # Extract review body with fallbacks
                     body = "N/A"
