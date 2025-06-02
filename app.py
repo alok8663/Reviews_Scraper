@@ -4,6 +4,7 @@ import re
 from amazon_scraper import scrape_amazon_reviews
 from flipkart_scraper import scrape_flipkart_reviews
 import json
+import requests
 
 
 progress_data = {"value": 0}
@@ -32,7 +33,19 @@ def index():
 
         try:
             if platform == 'amazon':
-                asin_match = re.search(r"/([A-Z0-9]{10})(?:[/?]|$)", url)
+                if "amzn.in" in url:
+                    try:
+                        response = requests.get(url, allow_redirects=True, timeout=10)
+                        expanded_url = response.url
+                    except Exception as e:
+                        return render_template("index.html", error=f"❌ Failed to expand shortened URL: {str(e)}")
+
+                else:
+                    expanded_url = url
+
+                # Extract ASIN from expanded URL
+                asin_match = re.search(r"/([A-Z0-9]{10})(?:[/?]|$)", expanded_url)
+
                 if not asin_match:
                     return render_template("index.html", error="❌ Invalid Amazon product URL.")
                 asin = asin_match.group(1)
@@ -115,7 +128,6 @@ def download(platform):
 @app.route('/progress')
 def get_progress():
     return json.dumps(progress_data)
-
 
 
 
